@@ -5,4 +5,6 @@ Repositorio para programa de correo electronico
 
 - Especificación técnica: https://docs.google.com/document/d/1H-T9WDNXgDNmGRXZYH-jM-u5k0UFlHVjP6qLl-5Qjpo/edit?tab=t.0
 
+- Infografia basica del arbol carpeta: https://drive.google.com/drive/u/0/folders/1d7Gu0cZnIxfyqasd2ymm1OOJ_uO0LUXb
+
 - Los archivos .py se encuentran en la carpeta clases del repositorio, junto con las funciones globales del programa.
