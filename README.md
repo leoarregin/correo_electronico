@@ -1,6 +1,10 @@
 # correo_electronico
 Repositorio para programa de correo electronico
 
+Grupo: 3
+Comisión: 3
+Integrantes y mail: Arregín Gonzalo (gonza04.arregin@gmail.com), Arregín Leonardo (leo78.arregin@gmail.com), Fleming Nilo (flemingnilo@gmail.com)
+
 - Presentación del proyecto: https://docs.google.com/presentation/d/1ucrj4xBZXEmgjIP2t1BrHe_St7_tlnuNASkKbuADnP4/edit?slide=id.p1#slide=id.p1
 
 - Modelo Futuro: https://docs.google.com/document/d/1Jitgzft3RnDP_xg_Z-ypsgGad2I5TkUL7e4CciFLIlk/edit?tab=t.0
